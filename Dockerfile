@@ -32,3 +32,4 @@ CMD ["bundle", "exec", "ruby", "hello.rb", "-o", "0.0.0.0", "-p", "4567"]
 # docker rm -f $(docker ps -aq) to remove all containers
 # docker rmi -f $(docker images -aq) to remove all images
 
+# docker scout quickview
